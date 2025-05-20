@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/gorilla/mux"
-	"github.com/markbates/goth"
+	"github.com/isaacwengler/goth"
 )
 
 // GetProviderName is a function used to get the name of a provider

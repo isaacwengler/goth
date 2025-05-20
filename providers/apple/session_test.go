@@ -4,9 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/isaacwengler/goth"
 	"github.com/stretchr/testify/assert"
-
-	"github.com/markbates/goth"
 )
 
 func Test_Implements_Session(t *testing.T) {

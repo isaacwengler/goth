@@ -3,8 +3,8 @@ package steam_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/steam"
+	"github.com/isaacwengler/goth"
+	"github.com/isaacwengler/goth/providers/steam"
 	"github.com/stretchr/testify/assert"
 )
 

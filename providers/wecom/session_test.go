@@ -3,8 +3,8 @@ package wecom_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/wecom"
+	"github.com/isaacwengler/goth"
+	"github.com/isaacwengler/goth/providers/wecom"
 	"github.com/stretchr/testify/assert"
 )
 

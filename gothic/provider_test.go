@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/markbates/goth/gothic"
+	"github.com/isaacwengler/goth/gothic"
 	"github.com/stretchr/testify/assert"
 )
 

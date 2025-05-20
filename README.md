@@ -1,17 +1,17 @@
-# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/markbates/goth?status.svg)](https://godoc.org/github.com/markbates/goth) [![Build Status](https://github.com/markbates/goth/workflows/ci/badge.svg)](https://github.com/markbates/goth/actions) [![Go Report Card](https://goreportcard.com/badge/github.com/markbates/goth)](https://goreportcard.com/report/github.com/markbates/goth)
+# Goth: Multi-Provider Authentication for Go [![GoDoc](https://godoc.org/github.com/isaacwengler/goth?status.svg)](https://godoc.org/github.com/isaacwengler/goth) [![Build Status](https://github.com/isaacwengler/goth/workflows/ci/badge.svg)](https://github.com/isaacwengler/goth/actions) [![Go Report Card](https://goreportcard.com/badge/github.com/isaacwengler/goth)](https://goreportcard.com/report/github.com/isaacwengler/goth)
 
 Package goth provides a simple, clean, and idiomatic way to write authentication
 packages for Go web applications.
 
 Unlike other similar packages, Goth, lets you write OAuth, OAuth2, or any other
-protocol providers, as long as they implement the [Provider](https://github.com/markbates/goth/blob/master/provider.go#L13-L22) and [Session](https://github.com/markbates/goth/blob/master/session.go#L13-L21) interfaces.
+protocol providers, as long as they implement the [Provider](https://github.com/isaacwengler/goth/blob/master/provider.go#L13-L22) and [Session](https://github.com/isaacwengler/goth/blob/master/session.go#L13-L21) interfaces.
 
 This package was inspired by [https://github.com/intridea/omniauth](https://github.com/intridea/omniauth).
 
 ## Installation
 
 ```text
-$ go get github.com/markbates/goth
+$ go get github.com/isaacwengler/goth
 ```
 
 ## Supported Providers
@@ -94,7 +94,7 @@ $ git clone git@github.com:markbates/goth.git
 ```
 or use
 ```text
-$ go get github.com/markbates/goth
+$ go get github.com/isaacwengler/goth
 ```
 ```text
 $ cd goth/examples

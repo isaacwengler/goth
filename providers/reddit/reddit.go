@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/markbates/goth"
+	"github.com/isaacwengler/goth"
 	"golang.org/x/oauth2"
 )
 

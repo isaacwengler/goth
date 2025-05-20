@@ -3,8 +3,8 @@ package typetalk_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/typetalk"
+	"github.com/isaacwengler/goth"
+	"github.com/isaacwengler/goth/providers/typetalk"
 	"github.com/stretchr/testify/assert"
 )
 

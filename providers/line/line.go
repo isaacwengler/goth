@@ -10,7 +10,7 @@ import (
 	"net/http"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/markbates/goth"
+	"github.com/isaacwengler/goth"
 	"golang.org/x/oauth2"
 )
 

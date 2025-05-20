@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/lark"
+	"github.com/isaacwengler/goth"
+	"github.com/isaacwengler/goth/providers/lark"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
