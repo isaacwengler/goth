@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/isaacwengler/goth"
-	"github.com/isaacwengler/gothothoth/providers/amazon"
+	"github.com/isaacwengler/goth/providers/amazon"
 	"github.com/stretchr/testify/assert"
 )
 
